@@ -94,7 +94,7 @@ public:
 
 ## Prezentare Powerpoint
 
-[proiect.pptx](https://github.com/CirciumaruRaul/TSS/files/15286543/proiect.pptx)
+[proiect.pptx](https://github.com/CirciumaruRaul/Testarea-sistemelor-software/files/15389009/proiect.pptx)
 
 ## Demo
 
