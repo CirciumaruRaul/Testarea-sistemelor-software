@@ -98,7 +98,7 @@ public:
 
 ## Demo
 
-https://github.com/CirciumaruRaul/TSS/assets/101272710/393022b5-e720-499c-88d0-3b119af39a61
+https://github.com/CirciumaruRaul/Testarea-sistemelor-software/assets/119003892/39ab0686-6a33-43e7-9ca8-bde66287117c
 
 ## Raport AI
 
